@@ -1,0 +1,12 @@
+input{
+    width: 750px;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 40px;
+    border-color: aqua;
+    border-radius: 3px;
+    
+}
+.search-button{
+    width: 100px;
+}
